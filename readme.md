@@ -1,6 +1,6 @@
-I got this template from [too plate](http://www.tooplate.com/view/2034-iron-rush), a free template website.
+I got this free template from a website. **While you are not permitted to use template sites**, I want you to learn how to take a non-responsive site and make it responsive.
 
-**While you are not permitted to use template sites**, I want you to learn how to take a non-responsive site and make it responsive.
+In this assignment you will make the web page fully responsive using media queries. You are also welcome to help update the outdated design.
 
 ## Instructions
 
